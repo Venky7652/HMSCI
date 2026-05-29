@@ -1,0 +1,2 @@
+# HMSCI
+Hopital management System 
